@@ -1,0 +1,189 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family:  'STIX Two Text', serif;
+}
+
+header{
+
+    background-color: rgb(85, 82, 82);
+    padding-top: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    z-index: 10;
+}
+
+header .nav{
+
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 12px 0;
+
+}
+
+header .nav li {
+
+    list-style: none;
+    margin: 0 15px ;
+}
+
+header .nav li a {
+
+    text-decoration: none;
+    color:#82a6c7;
+    font-size: 16px;
+    letter-spacing: 1px;
+}
+
+header .nav li a:hover{
+    color: #fff;
+    font-weight: 500;
+}
+
+#logoescrita{
+
+    font-family: 'Monoton', cursive;
+    color: #fff;
+    float: center;
+    display: flex;
+    align-items: center;
+}
+
+
+#fundo{
+    
+    background-image: url("img/p2.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100%;
+    width: 100%; 
+    background-color: rgba(51, 201, 138, 0.877) ;  
+  
+}
+
+#eu{
+    
+    font-family:  'STIX Two Text', serif;
+    text-align:center;
+    background: #373e43dc;
+    padding:10px;
+    border: black;
+ 
+}
+
+#texto{
+   
+    margin-top: 5px;
+    background: #373e43dc;
+    padding: 10px;
+    text-align: center;
+    font-size: 18px;
+    font-family:  'STIX Two Text', serif;
+}
+
+#edutech{
+     
+    margin-top: 5px;
+    background: #373e43dc;
+    text-align: center;
+    display: inline-block;
+    font-size: 18px;
+    font-family:  'STIX Two Text', serif;
+
+}
+
+
+
+
+#destaque{
+    font-family:  'STIX Two Text', serif;
+    font-size: 18px;
+    color: "#008000";
+
+}
+
+.icons{
+    
+   padding: 20px;
+   display: inline-block;
+}
+
+footer{
+
+    background-color: rgb(85, 82, 82);
+    padding-top: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    
+   
+}
+
+footer .nav{
+
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 12px 0;
+    text-align:center;
+    
+}
+
+
+footer .nav li {
+
+    list-style: none;
+    margin: 0 15px ;
+}
+
+footer .nav li a {
+
+    text-decoration: none;
+    color:#82a6c7;
+    font-size: 16px;
+    letter-spacing: 1px;
+    margin-left: 1100px;
+}
+
+footer .nav li a:hover{
+    color: #fff;
+    font-weight: 500;
+    margin-left: 1100px;
+}
+ 
+
+footer .icons a {
+    
+   
+    text-decoration: none;
+    color:#82a6c7;
+    font-size: 16px;
+    letter-spacing: 1px;
+   
+   
+}
+
+footer .icons a:hover{
+    color: #fff;
+    font-weight: 500;
+}
+
+.copyright{
+
+    text-align: center;
+}
+
+
+
+
+

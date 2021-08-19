@@ -1,2 +1,2 @@
 # Gcprogrammer-edutech
-comn base nos conteudos apresentados nos cursos resolvi fazer esse projeto que anuncia a edutech e ao mesmo tempo falar um pouco sobre mim
+com base nos conteúdos apresentados no curso alura, resolvi criar essa página utilizando todos meus conhecimentos em html e css   
